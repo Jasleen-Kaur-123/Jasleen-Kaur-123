@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about **Web Development, Java, Data
 ---
 
 ### 🛠️ Tech Stack  
-- **Programming Languages:** Java, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React  
-- **Database Technologies:** MySQL
-- **Tools & Platforms:** Git, GitHub, VS Code  
+- 💻 **Programming Languages:** Java ☕, JavaScript ✨, HTML 🌐, CSS 🎨  
+- 📚 **Frameworks & Libraries:** React ⚛️  
+- 🗄️ **Database Technologies:** MySQL 🛢️  
+- 🛠️ **Tools & Platforms:** Git 🔗, GitHub 🐙, VS Code 🖥️  
