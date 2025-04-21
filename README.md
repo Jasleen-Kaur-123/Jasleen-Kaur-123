@@ -1,5 +1,5 @@
 ***Hi, I'm Jasleen Kaur*** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   
-Welcome to my GitHub profile! I'm from Delhi and finished BCA in 2022. Currently completing MCA with PG in 2025. I enjoy solving problems and learning new technologies. I'm excited about working in teams to build interesting projects together.
+Welcome to my GitHub profile! I'm based in Delhi, completed my BCA in 2023, and currently pursuing an MCA (2025). I’m passionate about problem-solving, exploring new technologies, and collaborating in teams to develop impactful, real-world projects.
 
 ---
 
